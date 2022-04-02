@@ -1,5 +1,6 @@
 ## Welcome To CMing Blog
 [sql](https://mcthanos.github.io/27_03_2022.html)
+[sb](https://mcthanos.github.io/27_03_2022.html)
 
 You can use the [editor on GitHub](https://github.com/MCThanos/CMing.giyhub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
